@@ -1,0 +1,7 @@
+742|歡迎來到 <color=#00ffe4>Car Mechanic Simulator 2026 試玩版</color>。|本試玩版旨在展示完整版中新功能的一小部分。|試玩版內容包含：||一段教您遊戲基本操作的<color=#ffd200>教學</color>。||一本能幫助您增進知識、解答遊戲機制疑問的 <color=#ffd200>Mechanicopedia</color>。||<color=#ffd200>三項任務</color>，並搭配新車款：|<color=#ffd200>- Luxor Streamliner Mk3|- Mayen M5 T3|- Salem Aries Mk3 DF</color>||完成任務後，您可以著手處理<color=#ffd200>您的 DNB Censor</color> JNGL-X4，並學習全新的<color=#ffd200>模組化引擎系統</color>、更換引擎類型。||您還可以<color=#ffd200>客製化自己的工作室</color>、使用<color=#ffd200>診斷路段</color>，必要時也能在車庫周圍進行<color=#ffd200>試駕</color>。
+743|感謝您參與 <color=#00ffe4>Car Mechanic Simulator 2026 試玩版</color>！|歡迎透過我們的社群媒體，分享您對本產品的想法。
+1003|交換對象：|{0}
+1127|確定要為以下電池充電嗎？|{0}
+1246|<color=#FFA000>簡單</color> - 簡化版的經典模式，<color=#FFA000>非常適合新手</color>。開局資金較多、訂單要求較低，且<color=#FFA000>訂單與任務中的所有零件都已發現</color>。||<color=#FFA000>普通</color> - 經典玩法。一般訂單，難度會逐步提升。||<color=#FFA000>專家</color> - <color=#FFA000>僅限資深玩家</color>。不顯示說明、零件與螺栓輪廓，<color=#FFA000>獲得雙倍 XP</color>。||<color=#FFA000>沙盒</color> - 無限金錢／廢料，且車庫已完全升級。<color=#FFA000>停用訂單與劇情任務，此模式下無法解鎖成就</color>。
+1247|<color=#FFA000>簡單</color> - 簡化版的經典模式，<color=#FFA000>非常適合新手</color>。開局資金較多、訂單要求較低，且<color=#FFA000>訂單與任務中的所有零件都已發現</color>。||<color=#FFA000>普通</color> - 經典玩法。一般訂單，難度會逐步提升。||<color=#FFA000>專家</color> - <color=#FFA000>僅限資深玩家</color>。不顯示說明、零件與螺栓輪廓，<color=#FFA000>獲得雙倍 XP</color>。||<color=#FFA000>沙盒</color> - 無限金錢／廢料，且車庫已完全升級。<color=#FFA000>停用訂單與劇情任務，此模式下無法解鎖獎盃</color>。
+1297|請選擇以下兩個選項之一：|1) 回到選單，並保留存檔不變||2) 不使用缺少的模組／DLC 繼續遊玩（缺少的車輛／零件將從存檔中<color=#ff0000ff>永久</color>刪除）
